@@ -1,3 +1,3 @@
 # OOPS_Lab
 
-Assignments : OOPS Lab, NIT Calicut
+Assignments : CS4097D OOPS Lab ( SEM 7 ), NIT Calicut
