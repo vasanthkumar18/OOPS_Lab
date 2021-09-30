@@ -1,6 +1,6 @@
-# OOPS_Lab
+# OOS_Lab
 
-**Assignments** : CS4097D OOPS Lab ( SEM 7 ), NIT Calicut
+**Assignments** : CS4097D OOS Lab ( SEM 7 ), NIT Calicut
 <br/>
 consists of weekly assignments and solutions. 
 <br/>
