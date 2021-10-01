@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-![img](https://github.com/vasanthkumar18/OOPS_Lab/blob/main/RandomImages/imgtable.jpeg?raw=true)
+![File options](https://github.com/vasanthkumar18/OOPS_Lab/blob/main/RandomImages/imgtable.jpeg?raw=true)
 <br/>
 <br/>
 Refer: https://www.javatpoint.com/file-operations-in-java
