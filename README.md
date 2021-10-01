@@ -6,7 +6,9 @@ consists of weekly assignments and solutions.
 <br/>
 <br/>
 <br/>
-![OOPS](https://cdn.slidesharecdn.com/ss_thumbnails/oop-190125211805-thumbnail-4.jpg?cb=1548451240)
+
+<img src="https://cdn.slidesharecdn.com/ss_thumbnails/oop-190125211805-thumbnail-4.jpg?cb=1548451240" width="300" height="300">
+
 <br/>
 <br/>
 Covered Topics
