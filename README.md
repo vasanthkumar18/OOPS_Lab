@@ -5,9 +5,6 @@
 consists of weekly assignments and solutions. 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 Covered Topics
 1. Java Language Basics
