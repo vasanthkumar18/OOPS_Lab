@@ -17,3 +17,11 @@ Covered Topics
 5. Exception Handling, Swing
 6. Multi threading
 7. JDBC
+
+**Why am I sharing this library?**
+Just so that your learning path becomes a bit smoother.
+Knowledge hidden inside my head or codes in a private code-library will be useless when I am dead, so it's better to share those among people before I die. Also, Thanks to the CSE department for challening and beautiful questions.
+**Also, you can make me happy just by giving a star to the repository.**
+
+I believe that my coding style is pretty clean and readable, add pull requests if there are any changes. 
+Good Luck 
