@@ -15,9 +15,4 @@ Covered Topics
 6. Multi threading
 7. JDBC
 
-**Why am I sharing this library?**<br/>
-Just so that your learning path becomes a bit smoother. Thanks to the CSE department for challenging and beautiful questions.<br/>
->**Also, you can make me happy just by giving a star to the repository.**
 
-I believe that the codes are understandable. Add pull requests if there are any changes. <br/>
-Good Luck 
