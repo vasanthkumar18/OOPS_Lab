@@ -1,5 +1,7 @@
 # OOS_Lab
 
+![img](https://static.javatpoint.com/core/images/what-is-object-oriented-programming.png)
+
 **Assignments** : CS4097D OOS Lab ( SEM 7 ), NIT Calicut
 <br/>
 consists of weekly assignments and solutions. 
