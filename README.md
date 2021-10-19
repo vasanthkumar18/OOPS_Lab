@@ -4,7 +4,7 @@
 
 **Assignments** : CS4097D OOS Lab ( SEM 7 ), NIT Calicut
 <br/>
-consists of weekly assignments and solutions. 
+This repository consists of weekly assignments and solutions. 
 <br/>
 <br/>
 
