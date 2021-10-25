@@ -15,6 +15,6 @@ Covered Topics
 4. Polymorphism
 5. Exception Handling, Swing
 6. Multi threading
-7. JDBC
-
+7. Mini Eval
+8. Major Eval
 
