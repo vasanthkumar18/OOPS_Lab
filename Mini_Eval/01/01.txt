@@ -1,0 +1,25 @@
+Given a number N, write a Java program to compute first N Fibonacci series.The program also takes the range s and r as input to compute the sum of the fibonacci series between s and r from the above generated series.
+
+Input Format
+
+The first Line contain the integer N The second line contain the integer s The third line contains the integer r
+
+Constraints
+
+N >=r or s
+
+Output Format
+
+Prints the sum of the fibonacci series between s and r
+
+Sample Input 0
+
+5
+3
+5
+Sample Output 0
+
+6
+Explanation 0
+
+The Fibonacci series is a series of elements where the previous two elements are added to get the next element, starting with 0 and 1. When N=5 Fibonacci serie Generated 0 1 1 2 3 For s=3 and r=5 The Sum is = 1+2+3 =6
