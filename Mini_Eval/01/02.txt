@@ -1,0 +1,35 @@
+Given three strings “str1”, ”str2” and “str3” of lowercase English letters. Write a Java program to perform the following operations
+
+Sum of the lengths of str1,str2 and str3
+Print the string with maximum length.
+Print the three strings on a single line separated by space in the format specified. (str1 in lowercase letters, Capitalise the first letter in str2 and Capitalise all the letters in str3)
+Input Format
+
+first line str1
+second line str2
+third line str3
+Constraints
+
+Input in lowercase English letters else print ERROR
+
+Output Format
+
+First line sum of the lengths of str1 str2 and str3
+In second line print the string with maximam length
+In third line print the three strings in the specified format
+Sample Input 0
+
+oos lab
+programming in
+java
+Sample Output 0
+
+25
+programming in
+oos lab Programming in JAVA
+Explanation 0
+
+if length of str1,str2 and str3 are equal print str1=str2=str3
+if length of str1,str2 are equal and str3 less than str1 print str1=str2
+if length of str2,str3 are equal and str1 less than str2 print str2=str3
+if length of str1,str3 are equal and str2 less than str3 print str1=str3
