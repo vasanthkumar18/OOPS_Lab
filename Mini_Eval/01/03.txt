@@ -1,0 +1,89 @@
+A group of students at NITC organized a local marathon. Find the fastest runner. Create a class Marathon in Java with the following specifications
+
+Write a constructor that creates a Marathon object that take four parameters name:- to store the runner name, Chestid:- Participant Number, depName:- Name of Department, time:- to store the runners finishing time (in minutes)
+
+Write a method FinisherIndex to print the index corresponding to the person with the first, second and third lowest time. Print out the name and time corresponding to the returned index.
+
+Write a method SortMarathon to sort the participants in the marathon and display the first five participants in the increasing order in which they finished the Marathon. Also perform a search on the sorted data whether a participant participated in the Marathon or Not.
+
+Write a test application named MarathonTest that demonstrates class Marathon.
+Input Format
+
+Number N of Participants
+Input N Participants
+Name of the participant to be searched
+Constraints
+
+if N >= 20 print MAX 20, if N < 5 print MIN 5
+
+Output Format
+
+Print out the name and time of the first second third lowest time of prticipants corresponding to the returned index.
+Sorted list of 5 participant with lowest time
+Print Participant Name space Particpant Participated YES/NO
+If N >= 20 print MAX 20
+If N < 5 print MIN 5
+Sample Input 0
+
+8
+Aleena
+12
+CS
+341
+Thomas
+25
+EC
+273
+Harsh
+321
+MEC
+278
+Shivam
+29
+EEE
+329
+Pranav
+21
+CS
+445
+Manu
+32
+EEE
+402
+Alex
+88
+ECE
+388
+Emma
+23
+CS
+275
+Manu
+Sample Output 0
+
+2 Thomas 273
+8 Emma 275 
+3 Harsh 278
+
+Thomas 25 EC 273
+Emma 23 CS 275
+Harsh 321 MEC 278
+Shivam 29 EEE 329
+Aleena 12 CS 341
+
+Manu YES
+Explanation 0
+
+Output Format
+
+index (space) name (space) time
+index (space) name (space) time
+index (space) name (space) time
+newline
+name (space) chestid (space) depid (space) time
+name (space) chestid (space) depid (space) time
+name (space) chestid (space) depid (space) time
+name (space) chestid (space) depid (space) time
+name (space) chestid (space) depid (space) time
+newline
+SearchName space YES/NO
