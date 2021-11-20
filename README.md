@@ -31,5 +31,6 @@ Covered Topics
 [Mini Evaluations](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Mini_Eval)<br/>
 
 ## Execution in Linux Terminal
-javac filename.java </br>
+``` diff
+javac filename.java 
 java filename
