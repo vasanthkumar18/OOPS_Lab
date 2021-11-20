@@ -2,7 +2,7 @@
 
 ![img](https://static.javatpoint.com/core/images/what-is-object-oriented-programming.png)
 
-**Assignments** : CS4097D OOS Lab ( SEM 7 ), NIT Calicut
+**Assignments** : CS4097D OOS Lab - OBJECT ORIENTED SYSTEMS LABORATORY ( SEM 7 ), NIT Calicut
 <br/>
 This repository consists of weekly assignments and solutions. 
 <br/>
