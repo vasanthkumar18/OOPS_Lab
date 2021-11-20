@@ -30,3 +30,6 @@ Covered Topics
 [Swing & JDBC](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Swing%20%26%20JDBC)<br/>
 [Mini Evaluations](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Mini_Eval)<br/>
 
+## Execution in Linux Terminal
+javac filename.java </br>
+java filename
