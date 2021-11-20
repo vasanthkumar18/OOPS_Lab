@@ -34,3 +34,7 @@ Covered Topics
 ``` diff
 javac filename.java 
 java filename
+```
+
+## Notes 
+https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
