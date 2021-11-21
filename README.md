@@ -18,7 +18,7 @@ Covered Topics
 7. Mini Eval
 8. Major Eval
 
-## Links
+## Quick Links
 [Ass 1](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_1)<br/>
 [Ass 2](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_2)<br/>
 [Ass 3](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_3)<br/>
@@ -29,6 +29,8 @@ Covered Topics
 [Multithreading](https://github.com/vasanthkumar18/OOPS_Lab/blob/main/MultiThreading.pdf)<br/>
 [Swing & JDBC](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Swing%20%26%20JDBC)<br/>
 [Mini Evaluations](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Mini_Eval)<br/>
+[Major Eval](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Major_Eval)</br>
+[Ranking](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Ranking)</br>
 
 ## Execution in Linux Terminal
 ``` diff
