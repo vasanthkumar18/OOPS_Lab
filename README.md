@@ -19,18 +19,18 @@ Covered Topics
 8. Major Eval
 
 ## Quick Links
-[Ass 1](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_1)<br/>
-[Ass 2](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_2)<br/>
-[Ass 3](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_3)<br/>
-[Ass 4](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_4)<br/>
-[Ass 5](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_5)<br/>
-[Ass 6](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_6)<br/>
-[Ass 7](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_7)<br/>
-[Multithreading](https://github.com/vasanthkumar18/OOPS_Lab/blob/main/MultiThreading.pdf)<br/>
-[Swing & JDBC](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Swing%20%26%20JDBC)<br/>
-[Mini Evaluations](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Mini_Eval)<br/>
-[Major Eval](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Major_Eval)</br>
-[Ranking](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Ranking)</br>
+1. [Ass 1](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_1)<br/>
+2. [Ass 2](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_2)<br/>
+3. [Ass 3](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_3)<br/>
+4. [Ass 4](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_4)<br/>
+5. [Ass 5](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_5)<br/>
+6. [Ass 6](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_6)<br/>
+7. [Ass 7](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/ASS_7)<br/>
+8. [Multithreading](https://github.com/vasanthkumar18/OOPS_Lab/blob/main/MultiThreading.pdf)<br/>
+9. [Swing & JDBC](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Swing%20%26%20JDBC)<br/>
+10. [Mini Evaluations](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Mini_Eval)<br/>
+11. [Major Evaluations](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Major_Eval)</br>
+12. [Ranking](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Ranking)</br>
 
 ## Execution in Linux Terminal
 ``` diff
