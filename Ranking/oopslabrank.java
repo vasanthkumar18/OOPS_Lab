@@ -47,7 +47,7 @@ public class oopslabrank
 				  String roll=inp[1];
 				  double marks=Double.parseDouble(inp[len-1]);
 				  String name="";
-				  for(int i=2;i<=len-2;i++)
+				  for(int i=2;i<=len-12;i++)
 				  {
 				  	name+=inp[i]+" ";
 				  }
