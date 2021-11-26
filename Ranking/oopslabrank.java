@@ -73,7 +73,7 @@ public class oopslabrank
 		    String roll=en.getKey();
 		    double marks=en.getValue();
 		    String name=map2.get(roll);
-		    System.out.println(i+" "+roll+" "+name+" "+marks);
+		    System.out.println(i+". "+roll+" "+name+" "+marks);
             		i++;
 		}
 		  
