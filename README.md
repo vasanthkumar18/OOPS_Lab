@@ -30,7 +30,6 @@ Covered Topics
 9. [Swing & JDBC](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Swing%20%26%20JDBC)<br/>
 10. [Mini Evaluations](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Mini_Eval)<br/>
 11. [Major Evaluations](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Major_Eval)</br>
-12. [Ranking](https://github.com/vasanthkumar18/OOPS_Lab/tree/main/Ranking)</br>
 
 ## Execution in Linux Terminal
 ``` diff
